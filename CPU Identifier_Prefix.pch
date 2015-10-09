@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'RecBoot' target in the 'RecBoot' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

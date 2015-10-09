@@ -1,0 +1,368 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 396}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+		};
+	};
+	256AC3D80F4B6AC300CF3369 /* RecBootAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 468}}";
+			sepNavSelRange = "{579, 0}";
+			sepNavVisRange = "{43, 748}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* RecBootAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1202, 2340}}";
+			sepNavSelRange = "{1959, 0}";
+			sepNavVisRange = "{1601, 605}";
+		};
+	};
+	256AC3F00F4B6AF500CF3369 /* RecBoot_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 424}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 145}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = ED1E4A0A12C2486200B2FC7B /* RecBoot */;
+		activeTarget = 8D1107260486CEB800E47090 /* RecBoot */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* RecBoot */,
+		);
+		codeSenseManager = ED1E4A1012C2488100B2FC7B /* Code sense */;
+		executables = (
+			ED1E4A0A12C2486200B2FC7B /* RecBoot */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					721,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					793,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 315681991;
+			PBXWorkspaceStateSaveDate = 315681991;
+		};
+		perUserProjectItems = {
+			ED11D47612D07E0E000E6B32 = ED11D47612D07E0E000E6B32 /* PBXTextBookmark */;
+			ED11D47712D07E0E000E6B32 = ED11D47712D07E0E000E6B32 /* PBXTextBookmark */;
+			ED11D47812D07E0E000E6B32 = ED11D47812D07E0E000E6B32 /* PlistBookmark */;
+			ED58DDD012D03E6400FE9766 = ED58DDD012D03E6400FE9766 /* PlistBookmark */;
+			ED58DE2E12D04ADA00FE9766 = ED58DE2E12D04ADA00FE9766 /* PBXTextBookmark */;
+			ED77A0C512CED3E9002B0489 = ED77A0C512CED3E9002B0489 /* PBXTextBookmark */;
+			ED77A0C612CED3E9002B0489 = ED77A0C612CED3E9002B0489 /* PBXTextBookmark */;
+			ED77A0C712CED3E9002B0489 = ED77A0C712CED3E9002B0489 /* PBXTextBookmark */;
+			ED77A0C912CED3E9002B0489 = ED77A0C912CED3E9002B0489 /* PBXBookmark */;
+			EDD01CCB12D0EF0B004C2A14 /* PBXTextBookmark */ = EDD01CCB12D0EF0B004C2A14 /* PBXTextBookmark */;
+			EDD01CCC12D0EF0B004C2A14 /* PlistBookmark */ = EDD01CCC12D0EF0B004C2A14 /* PlistBookmark */;
+			EDD01CCD12D0EF0B004C2A14 /* PlistBookmark */ = EDD01CCD12D0EF0B004C2A14 /* PlistBookmark */;
+			EDD01CE512D0EF7B004C2A14 /* PlistBookmark */ = EDD01CE512D0EF7B004C2A14 /* PlistBookmark */;
+			EDD01CE612D0EF7B004C2A14 /* PlistBookmark */ = EDD01CE612D0EF7B004C2A14 /* PlistBookmark */;
+			EDD01CF512D0EF9B004C2A14 /* PlistBookmark */ = EDD01CF512D0EF9B004C2A14 /* PlistBookmark */;
+			EDD01D0212D0F1B7004C2A14 /* PlistBookmark */ = EDD01D0212D0F1B7004C2A14 /* PlistBookmark */;
+		};
+		sourceControlManager = ED1E4A0F12C2488100B2FC7B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 424}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 248}";
+		};
+	};
+	8D1107260486CEB800E47090 /* RecBoot */ = {
+		activeExec = 0;
+		executables = (
+			ED1E4A0A12C2486200B2FC7B /* RecBoot */,
+		);
+	};
+	ED11D47612D07E0E000E6B32 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* RecBootAppDelegate.m */;
+		name = "RecBootAppDelegate.m: 74";
+		rLen = 0;
+		rLoc = 1959;
+		rType = 0;
+		vrLen = 605;
+		vrLoc = 1601;
+	};
+	ED11D47712D07E0E000E6B32 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	ED11D47812D07E0E000E6B32 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* RecBoot-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/sebastienpeek/RecBoot-for-Mac/RecBoot-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	ED1E4A0A12C2486200B2FC7B /* RecBoot */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = RecBoot;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	ED1E4A0F12C2488100B2FC7B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	ED1E4A1012C2488100B2FC7B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	ED1E4A2112C2490100B2FC7B /* MobileDevice.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 4459}}";
+			sepNavSelRange = "{12264, 0}";
+			sepNavVisRange = "{5926, 1088}";
+		};
+	};
+	ED1E4AA612C2541E00B2FC7B /* Icon.icns */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.icns;
+		name = Icon.icns;
+		path = "/Users/sebastienpeek/RecBoot-for-Mac/Icon.icns";
+		sourceTree = "<absolute>";
+	};
+	ED58DDD012D03E6400FE9766 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* RecBoot-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleShortVersionString,
+		);
+		name = "/Users/sebastienpeek/RecBoot-for-Mac/RecBoot-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	ED58DE2E12D04ADA00FE9766 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* RecBootAppDelegate.h */;
+		name = "RecBootAppDelegate.h: 28";
+		rLen = 0;
+		rLoc = 579;
+		rType = 0;
+		vrLen = 748;
+		vrLoc = 43;
+	};
+	ED77A0C512CED3E9002B0489 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 248;
+		vrLoc = 0;
+	};
+	ED77A0C612CED3E9002B0489 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ED1E4A2112C2490100B2FC7B /* MobileDevice.h */;
+		name = "MobileDevice.h: 310";
+		rLen = 0;
+		rLoc = 12264;
+		rType = 0;
+		vrLen = 1088;
+		vrLoc = 5926;
+	};
+	ED77A0C712CED3E9002B0489 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3F00F4B6AF500CF3369 /* RecBoot_Prefix.pch */;
+		name = "RecBoot_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 145;
+		vrLoc = 0;
+	};
+	ED77A0C912CED3E9002B0489 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = ED1E4AA612C2541E00B2FC7B /* Icon.icns */;
+	};
+	EDD01CCB12D0EF0B004C2A14 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	EDD01CCC12D0EF0B004C2A14 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* RecBoot-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/sebastienpeek/RecBoot-for-Mac/RecBoot-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	EDD01CCD12D0EF0B004C2A14 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* RecBoot-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/sebastienpeek/RecBoot-for-Mac/RecBoot-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	EDD01CE512D0EF7B004C2A14 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* RecBoot-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIconFile,
+		);
+		name = "/Users/sebastienpeek/RecBoot-for-Mac/RecBoot-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	EDD01CE612D0EF7B004C2A14 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* RecBoot-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleShortVersionString,
+		);
+		name = "/Users/sebastienpeek/RecBoot-for-Mac/RecBoot-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	EDD01CF512D0EF9B004C2A14 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* RecBoot-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleShortVersionString,
+		);
+		name = "/Users/sebastienpeek/RecBoot-for-Mac/RecBoot-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	EDD01D0212D0F1B7004C2A14 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* RecBoot-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleShortVersionString,
+		);
+		name = "/Users/sebastienpeek/RecBoot-for-Mac/RecBoot-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+}

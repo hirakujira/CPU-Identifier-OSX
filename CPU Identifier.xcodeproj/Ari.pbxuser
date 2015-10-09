@@ -1,0 +1,156 @@
+// !$*UTF8*$!
+{
+	0205A4D212C30624007456AE /* RecBoot */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+			{
+				active = YES;
+				name = NSZombieEnabled;
+				value = YES;
+			},
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = RecBoot;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	0205A4E412C30625007456AE /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	0205A4E512C30625007456AE /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	0205A4FF12C307BE007456AE /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* RecBootAppDelegate.m */;
+	};
+	0205A50112C30A11007456AE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ED1E4A2112C2490100B2FC7B /* MobileDevice.h */;
+		name = "MobileDevice.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 966;
+		vrLoc = 1610;
+	};
+	0205A50212C30A11007456AE /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* RecBootAppDelegate.m */;
+	};
+	0205A50312C30A11007456AE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* RecBootAppDelegate.m */;
+		name = "RecBootAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 500;
+		vrLoc = 0;
+	};
+	0205A50612C30A11007456AE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* RecBootAppDelegate.m */;
+		name = "RecBootAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1788;
+		vrLoc = 1659;
+	};
+	256AC3D90F4B6AC300CF3369 /* RecBootAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {656, 1989}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 500}";
+			sepNavWindowFrame = "{{15, 241}, {953, 782}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 0205A4D212C30624007456AE /* RecBoot */;
+		activeTarget = 8D1107260486CEB800E47090 /* RecBoot */;
+		codeSenseManager = 0205A4E512C30625007456AE /* Code sense */;
+		executables = (
+			0205A4D212C30624007456AE /* RecBoot */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 314857618;
+			PBXWorkspaceStateSaveDate = 314857618;
+		};
+		perUserProjectItems = {
+			0205A4FF12C307BE007456AE = 0205A4FF12C307BE007456AE /* PBXBookmark */;
+			0205A50112C30A11007456AE = 0205A50112C30A11007456AE /* PBXTextBookmark */;
+			0205A50212C30A11007456AE = 0205A50212C30A11007456AE /* PBXBookmark */;
+			0205A50312C30A11007456AE = 0205A50312C30A11007456AE /* PBXTextBookmark */;
+			0205A50612C30A11007456AE = 0205A50612C30A11007456AE /* PBXTextBookmark */;
+		};
+		sourceControlManager = 0205A4E412C30625007456AE /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* RecBoot */ = {
+		activeExec = 0;
+		executables = (
+			0205A4D212C30624007456AE /* RecBoot */,
+		);
+	};
+	ED1E4A2112C2490100B2FC7B /* MobileDevice.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {572, 4342}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1610, 966}";
+		};
+	};
+}
