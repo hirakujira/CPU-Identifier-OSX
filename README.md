@@ -1,5 +1,8 @@
 # CPU-Identifier-OSX
 
+## Download Link
+[https://github.com/hirakujira/CPU-Identifier-OSX/releases](https://github.com/hirakujira/CPU-Identifier-OSX/releases)
+
 ## Source code will be available later.
 
 This tiny app can detect the CPU chipset of your iPhone. For iPhone 6s / 6s Plus, it can also detect the manufactory (TSMC or Samsung) of A9 chip.
