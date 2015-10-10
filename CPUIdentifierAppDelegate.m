@@ -76,6 +76,7 @@ void recovery_disconnect_callback(struct am_recovery_device *rdev) {
 	AMRestoreRegisterForDeviceNotifications(recovery_disconnect_callback, recovery_connect_callback, recovery_disconnect_callback, recovery_disconnect_callback, 0, NULL);
     
     accept = NO;
+    connected = NO;
     NSAlert* alert = [[NSAlert alloc] init];
     [alert setMessageText:@"Improve Our Statistics"];
     [alert setInformativeText:@"To represent the distribution of CPU manufactory, we collect some information (device model, CPU model and hashed MAC Address) from your iPhone. We can't identify you nor censor your device with this tiny app. If you want to help us improve the statistics, please click \'OK\'"];
@@ -90,12 +91,16 @@ void recovery_disconnect_callback(struct am_recovery_device *rdev) {
         if(returnCode == NSAlertSecondButtonReturn)
         {
             accept = YES;
-            [self populateData];
+            if (connected == YES) {
+                [self populateData];
+            }
         }
         else
         {
             accept = NO;
-            [self populateData];
+            if (connected == YES) {
+                [self populateData];
+            }
         }
     }];
     
@@ -132,6 +137,7 @@ void recovery_disconnect_callback(struct am_recovery_device *rdev) {
 }
 
 - (void)populateData {
+    connected = YES;
     NSString *SN = [[self getDeviceValue:@"SerialNumber"] MD5String];
     NSString *platform = [self getDeviceValue:@"HardwarePlatform"];
 	NSString *modelNumber = [self getDeviceValue:@"ModelNumber"];

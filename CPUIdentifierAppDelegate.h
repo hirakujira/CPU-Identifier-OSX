@@ -19,6 +19,7 @@
     IBOutlet NSTextField *github;
     IBOutlet NSTextField *statistics;
     BOOL accept;
+    BOOL connected;
 }
 
 - (void)populateData;
