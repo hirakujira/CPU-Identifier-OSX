@@ -4,11 +4,13 @@ This tiny app can detect the CPU chipset of your iPhone. For iPhone 6s / 6s Plus
 
 The compiled binary file that I released would ask you whether you want to help me improve the statistics by uploading the chip model, device model and hashed (MD5) SN number to my server (since I don't want to get duplicated records). All of the information is for statistics only. Therefore, I can't identify you from it.
 
+[Statistics Result](http://demo.hiraku.tw/CPUIdentifier/chart2.php)
+
 ## Download Link
 [https://github.com/hirakujira/CPU-Identifier-OSX/releases](https://github.com/hirakujira/CPU-Identifier-OSX/releases)
 
-## Usage
-Plug your iPhone to your Mac, and then open this app.
+## How to Use
+Plug your iPhone to your Mac, then open this app.
 If it can't detect your device, try to restart the app or replug the cable, or click "Trust" button on your iPhone to trust your Mac (if the iPhone is activated).
 
 You can detect the CPU manufactory even when the device is not activated.
