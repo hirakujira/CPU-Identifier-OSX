@@ -198,6 +198,8 @@ void recovery_disconnect_callback(struct am_recovery_device *rdev) {
         deviceString = @"iPhone 6s";
     else if ([deviceString isEqualToString:@"iPhone8,2"])
         deviceString = @"iPhone 6s Plus";
+    else if ([deviceString isEqualToString:@"iPhone8,4"])
+        deviceString = @"iPhone SE";
     //iPad
 	else if ([deviceString isEqualToString:@"iPad1,1"])
 		deviceString = @"iPad";
